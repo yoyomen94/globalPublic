@@ -18,6 +18,7 @@ class Acontroller extends MY_Controller {
 	
 	public function signUp()
 	{
+		///github
 		$this->data['title'] = "Sign Up Page";
 		$this->data['meta_description'] = '<meta name="keywords" content="" />
 		<meta name="description" content="" />';
