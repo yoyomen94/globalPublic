@@ -15,6 +15,7 @@ $route['login'] = "Acontroller/login";
 $route['user-login'] = "Ccontroller/userLogin";
 $route[user.'/dashboard'] = "Acontroller/userDashboard";
 $route['user-logout'] = "Acontroller/userLogout";
+$route['user-logouts'] = "Acontroller/userLogout";
 
 $route['get-captcha'] = "Acontroller/getCaptcha";
 
